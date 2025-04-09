@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
-import { dataFake } from './data/dataFake';
+import { dataFake } from '../../data/dataFake';
+
 
 @Component({
   selector: 'app-content',
@@ -32,5 +33,5 @@ export class ContentComponent implements OnInit {
     this.contentDescription = result.description
     this.photoCover = result.photoCover
   }
-
+  
 }

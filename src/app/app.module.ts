@@ -9,7 +9,6 @@ import { SmallCardComponent } from './components/small-card/small-card.component
 import { ContentComponent } from './pages/content/content.component';
 import { HomeComponent } from './pages/home/home.component';
 import { MenuBarComponent } from './components/menu-bar/menu-bar.component';
-import { DataComponent } from './data/data.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +19,7 @@ import { DataComponent } from './data/data.component';
     ContentComponent,
     HomeComponent,
     MenuBarComponent,
-    DataComponent
+
   ],
   imports: [
     BrowserModule,
