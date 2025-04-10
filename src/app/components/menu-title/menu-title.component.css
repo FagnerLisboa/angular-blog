@@ -1,5 +1,5 @@
 .container__menu-title{
-    color: black;
+    color: #fff;
   }
   
   .container__menu-title > h1{
@@ -9,6 +9,9 @@
     font-family: 'Open Sans', sans-serif;
     display: flex;
     justify-content: center;
+    background-color: #000;
+  color: #fff;
+  padding: 20px;
   }
   
   .container__menu-title > hr{
