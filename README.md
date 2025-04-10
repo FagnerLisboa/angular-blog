@@ -1,5 +1,7 @@
 # AngularBlog
 
+"Este projeto foi desenvolvido como parte de um desafio prático em um bootcamp da DIO (Digital Innovation One). Trata-se de um blog construído com Angular 17 e estilizado com Bootstrap, com foco em responsividade e boa experiência do usuário. A navegação foi personalizada com um menu bar adaptável, incluindo links sociais e menu hamburguer para dispositivos móveis."
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.13.
 
 ## Development server
